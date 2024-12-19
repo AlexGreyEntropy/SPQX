@@ -7,4 +7,4 @@ Use cases:
 - Educational Tools are essential as to create NFTs that grow with the learner. AI could adjust educational content dynamically, using route guards to filter content that only benefits learning and practical development, making education tailored and highly accessable.
 - Legal and Intelectual Property Management can be managed smart using AIs and custom rules to automate governance rights, royalties, and even licensing.
 
-Note: This project is more than just coding, it's about crafting a future where blockchain assets are not just static, but evolving digital entities with real intrinsic value. 
+Note: This project is more than just coding, it's about crafting a future where blockchain assets are not just static, but evolving digital entities with intrinsic value. 
